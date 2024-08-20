@@ -15,6 +15,10 @@ Transform C Programming code to VB code Using Flex and Bison.
 [![Bison](https://img.shields.io/badge/flex-Bison-red)](https://www.gnu.org/software/bison/)
 
 
+## Important Files
+
+file.l and fileparce.y
+
 
 # Hi, I'm Hassan Ezzeddine! 👋
 
